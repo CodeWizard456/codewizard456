@@ -2,7 +2,7 @@
 ![logo](https://github.com/CodeWizard456/codewizard456/blob/main/Deepak.png)
 <h1 align="center">Hi 👋, I'm Deepak kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="data" width="400" src="![image](https://github.com/CodeWizard456/codewizard456/assets/128350594/7e2e9f84-5b95-48e7-a35f-02aba1de36d5)"
+<img align="right" alt="data" width="400" src="https://github.com/CodeWizard456/codewizard456/assets/128350594/3d637f96-ec36-4b25-a483-dcc5ae8a6c36"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewizard456&label=Profile%20views&color=0e75b6&style=flat" alt="codewizard456" /> </p>
 
